@@ -30,3 +30,4 @@ There are inconsistencies in the data regarding the number of nights (e.g. negat
 - [Executive Summary](https://www.notion.so/TravelTide-1d98295c2e5a805d8213e50df1644ee6?pvs=4)
 - [Detailed Report](https://www.notion.so/Travel-Tide-Report-1d98295c2e5a8025b3b6e428bfcaa566?pvs=4)
 - [Tableau Public Visualization](https://public.tableau.com/views/TravelTide_17442010135400/Story1?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link )
+- [Presentation Video](https://www.loom.com/share/116adadccc1d4aeba7987d32af6999a9?sid=b59e5d5d-f809-4b0a-b930-9079ac5d2d38)
