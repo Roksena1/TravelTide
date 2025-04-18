@@ -2,7 +2,7 @@
 Customer Segmentation for rewards program, TravelTide
 ## Project Description
 E-booking startup TravelTide is a new player in the online travel industry. It has experienced steady growth since it was founded at the end of the COVID-19 pandemic (2021-04).
-##  Used Tools: 
+##  Used Tools
 PostgreSQL, Tableau
 ## The Goal
 This project analyzes user assignments to the perks (rewards program) to identify key trends and insights.<br>
