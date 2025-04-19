@@ -17,7 +17,9 @@ TravelTide currently has around 1 million customers.
 The company has recorded over 5 million app sessions with its customers.
 As suggested by Elena, we only included customers with more than 7 sessions since January 4th, 2023 in the analysis.
 There are inconsistencies in the data regarding the number of nights (e.g. negative values), so these entries were excluded from the analysis.<br>
+
 Used Method: Manual customer segmentation (based on age and demographic characteristics such as children and marital status) was conducted to identify typical behavior patterns and derive insights for a personalized rewards program.
+
 - The target group "Under 25" has the highest cancellation ratio, so offering "no cancellation fees" to this group makes sense — but only up to a certain timeframe, e.g. free cancellation up to 5 days before the trip.
 - The "Under 25" group books the most flights and hotels with discounts, but they tend to be more attracted by smaller discounts. Therefore, offering a perk like "1 free hotel meal" is a good fit for this group.
 - The "25–35" age group is second in terms of the number of discounted flights and hotel bookings. They are more drawn to higher discounts, so the recommended perk for them is "1 night free hotel with flight".
