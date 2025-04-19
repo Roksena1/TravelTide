@@ -12,6 +12,7 @@ This project analyzes user assignments to the perks (rewards program) to identif
 - **no cancellation fees**
 - **exclusive discounts**
 - **1 night free stay for the flights**
+Used Method: Manual customer segmentation (based on age and demographic characteristics such as children and marital status) was conducted to identify typical behavior patterns and derive insights for a personalized rewards program.
 ## Key Points and Insights
 TravelTide currently has around 1 million customers.
 The company has recorded over 5 million app sessions with its customers.
